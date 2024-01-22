@@ -1,4 +1,5 @@
 # Road-Accident-Dashboard
+### Excel file with dashboard [link](https://docs.google.com/spreadsheets/d/1sP5A0CD71GkxPtmNHv1Rk9dUDgwXzTMY/edit?usp=sharing&ouid=115907968798995233709&rtpof=true&sd=true)
 
 <p align="center">
 <img src='https://github.com/bharath-amaresam/Road-Accident-Dashboard/assets/82637423/669eee50-2e03-4a6c-887b-469d8125b419' width='200'>
@@ -33,5 +34,13 @@ These are the primary and secondary KPI's i have represented in this Dashbaord
 *   **Monthly trend** showing comparison of casualties for Current Year and Previous Year 
 *   Maximum casualties by **Road Type** 
 *   Distribution of total casualties by **Road Surface** 
-*   Relation between Casualties by **Area/ Location** & by **Day/ Night** 
+*   Relation between Casualties by **Area/ Location** & by **Day/ Night**
+
+In conclusion, a comprehensive approach addressing urban risks, single carriageway concerns, road surface conditions, and different times of the day is vital for overall road safety improvement.
+
+## Dashboard Preview
+<p align="center">
+<img src='https://github.com/bharath-amaresam/Road-Accident-Dashboard/assets/82637423/2ef9bdda-da97-4f39-a3ec-048ff07d9fb3'>
+</p>
+
 
