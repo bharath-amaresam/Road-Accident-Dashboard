@@ -43,4 +43,10 @@ In conclusion, a comprehensive approach addressing urban risks, single carriagew
 <img src='https://github.com/bharath-amaresam/Road-Accident-Dashboard/assets/82637423/2ef9bdda-da97-4f39-a3ec-048ff07d9fb3'>
 </p>
 
+### Credits :
+Thanks to Data Tutorials YouTube channel for teaching this amazing dashboard creation :
+[Video link](https://youtu.be/XeWfLNe3moM?si=4WHIlw1hj5pcw967)
+
+
+
 
