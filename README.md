@@ -47,6 +47,17 @@ In conclusion, a comprehensive approach addressing urban risks, single carriagew
 Thanks to Data Tutorials YouTube channel for teaching this amazing dashboard creation :
 [Video link](https://youtu.be/XeWfLNe3moM?si=4WHIlw1hj5pcw967)
 
+## Hi, I'm Bharath! 👋
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Amaresam-Sai-Bharath-Chand)
+&emsp;
+[![Gmail](https://img.shields.io/badge/bharath.temp3@gmail.com-white?logo=Gmail)](mailto:bharath.temp3@gmail.com)
+&emsp;
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaresam-sai-bharath-chand-47ba50168/)
+&emsp;
+[![youtube](https://img.shields.io/badge/youtube-1DA1F2?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/ZkzLYNFPqwk)
+&emsp;
+
 
 
 
